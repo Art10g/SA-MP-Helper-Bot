@@ -2,11 +2,11 @@
 
 ## 1. Introduction
 
-Welcome to [Your Bot's Name], a Discord bot designed to assist users with GTA: San Andreas Multiplayer (SA-MP). By using our bot, you agree to the following Terms of Service. If you do not agree with these terms, please do not use our bot.
+Welcome to SA-MP Helper, a Discord bot designed to assist users with GTA: San Andreas Multiplayer (SA-MP). By using our bot, you agree to the following Terms of Service. If you do not agree with these terms, please do not use our bot.
 
 ## 2. Service Description
 
-[Your Bot's Name] provides users with various commands related to GTA: SA-MP, including but not limited to:
+SA-MP Helper provides users with various commands related to GTA: SA-MP, including but not limited to:
 - Retrieving vehicle data.
 - Retrieving skin data.
 - Accessing useful links and resources related to SA-MP.
@@ -25,12 +25,12 @@ Welcome to [Your Bot's Name], a Discord bot designed to assist users with GTA: S
 
 ## 5. Intellectual Property
 
-- **Ownership**: All content, logos, and trademarks related to [Your Bot's Name] are the property of their respective owners.
+- **Ownership**: All content, logos, and trademarks related to SA-MP Helper are the property of their respective owners.
 - **Usage**: You may not use our bot’s intellectual property for commercial purposes without prior written permission.
 
 ## 6. Limitation of Liability
 
-- **Disclaimer**: [Your Bot's Name] is provided "as is" and without warranties of any kind. We do not guarantee the accuracy or completeness of the information provided.
+- **Disclaimer**: SA-MP Helper is provided "as is" and without warranties of any kind. We do not guarantee the accuracy or completeness of the information provided.
 - **Liability**: We are not liable for any damages resulting from the use or inability to use our bot, including but not limited to indirect, incidental, or consequential damages.
 
 ## 7. Changes to Terms
@@ -44,7 +44,6 @@ We reserve the right to terminate or suspend your access to our bot at our sole 
 ## 9. Contact Information
 
 If you have any questions about these Terms of Service, please contact us at:
-- **Email**: [Your Contact Email]
-- **Discord**: [Your Discord Contact]
+- **Discord**: @dennis_vlc
 
-**Last updated: [Date]**
+**Last updated: 3/8/2024**
