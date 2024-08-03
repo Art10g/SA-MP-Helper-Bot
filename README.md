@@ -22,9 +22,14 @@ SA-MP Helper is a Discord bot designed to assist you with all your **GTA: San An
 - `!vehname <name>` – Retrieve data on a specific vehicle by its Name.
 - `!vehcategory` - Retrieve a list of vehicles in specified category.
 - `!skinid <number>` – Get information about a particular skin by its ID.
+- `!skingender <gender>` – List skins by their Gender.
 - `!ping` – Pings the bot. Returns the API ping and bot Response Time.
 - `!links` – View a list of essential links and resources for SA-MP.
 - `!help` – Display a comprehensive guide on all bot commands and their usage.
+- `!changelog` – Displays the latest bot change log.
+- `!changeloghistory` – Lists all available changelog versions.
+- `!changelogversion` – Displays the bot change log for a specific version.
+- 
 
 ## Why Use SA-MP Helper?
 
