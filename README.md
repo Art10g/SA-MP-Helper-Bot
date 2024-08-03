@@ -2,7 +2,7 @@
 
 ## Description
 
-🎮 **Meet SA-MP Helper bot, your ultimate SA-MP helper!** 🚗
+🎮 **Introducing SA-MP Helper Bot: Your Go-To Companion for SA-MP Information!** 🚗
 
 SA-MP Helper is a Discord bot designed to assist you with all your **GTA: San Andreas Multiplayer (SA-MP)** needs. Whether you're seeking detailed vehicle specs, skin information, or useful game-related links, our bot has you covered.
 
