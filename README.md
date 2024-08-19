@@ -1,10 +1,10 @@
-# SA-MP-Helper-Bot
+# SA-MP-Assistant
 
 ## Description
 
-🎮 **Introducing SA-MP Helper Bot: Your Go-To Companion for SA-MP Information!** 🚗
+🎮 **Introducing SA-MP Assistant: Your Go-To Companion for SA-MP Information!** 🚗
 
-SA-MP Helper is a Discord bot designed to assist you with all your **GTA: San Andreas Multiplayer (SA-MP)** needs. Whether you're seeking detailed vehicle specs, skin information, or useful game-related links, our bot has you covered.
+SA-MP Assistant is a Discord bot designed to assist you with all your **GTA: San Andreas Multiplayer (SA-MP)** needs. Whether you're seeking detailed vehicle specs, skin information, or useful game-related links, our bot has you covered.
 
 ## Key Features
 
@@ -31,7 +31,7 @@ SA-MP Helper is a Discord bot designed to assist you with all your **GTA: San An
 - `!changelogversion` – Displays the bot change log for a specific version.
 - 
 
-## Why Use SA-MP Helper?
+## Why Use SA-MP Assistant?
 
 - **Instant Access**: Get the information you need about SA-MP directly in your Discord server.
 - **Resourceful**: Find all the links and tools you need for development.
@@ -39,7 +39,7 @@ SA-MP Helper is a Discord bot designed to assist you with all your **GTA: San An
 
 ## Getting Started
 
-1. **Invite SA-MP Helper to Your Server**: _Coming soon.._
+1. **Invite SA-MP Assistant to Your Server**: _Coming soon.._
 2. **Join Our Community**: _Coming soon.._
 
 ## Privacy Policy
@@ -57,4 +57,4 @@ For support or questions, feel free to reach out to us:
 - **Discord**: @dennis_vlc
 
 
-**Last updated: 3/8/2024**
+**Last updated: 30/8/2024**
